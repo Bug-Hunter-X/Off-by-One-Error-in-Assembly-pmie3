@@ -1,0 +1,1 @@
+This repository contains an example of a common off-by-one error in assembly language. The bug involves incrementing a value stored in memory but applying the increment before storing it back. The solution corrects this by modifying the order of operations.
